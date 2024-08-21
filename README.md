@@ -1,9 +1,9 @@
 # psu-beloved
 contains the lyrics of Palawan State University Hymn
 
-Owner
+Owner:
 Kenjicci - Cinco, Ken C.
 
 
-Collaborator
+Collaborator:
 ampalayaa - Magdayao, Frances Bea V.
